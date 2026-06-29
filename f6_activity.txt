@@ -1,0 +1,1 @@
+Version control is important in collaborative projects because it allows multiple people to work on the same code or files without overwriting each other’s changes. It keeps a history of all modifications, making it easy to track who changed what and when. It also helps teams recover previous versions if mistakes or errors are introduced.
